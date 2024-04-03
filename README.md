@@ -17,7 +17,7 @@ To view the website locally, follow these steps:
 - Link - 
 
 1. Clone this repository to your local machine:
-2. - Link -
+Link -
   
 ## License
 
