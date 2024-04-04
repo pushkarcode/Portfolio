@@ -7,6 +7,22 @@
   scroll-behavior: smooth;
 }
 
+*::selection {
+  color: #d7cccc;
+  background-color: #4d4d5d;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+  background-color: rgb(212, 201, 201);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(20, 19, 19, 0.682);
+  border-radius: 15px;
+}
+
 .wraper {
   height: 100vh;
   overflow-y: auto;
