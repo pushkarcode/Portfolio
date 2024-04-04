@@ -643,15 +643,15 @@ footer {
 }
 .footer-wrapper {
   display: flex;
-  justify-content: space-between;
-  gap: 1rem;
+  flex-direction: column;
+  gap: 2rem;
   padding: 1.2rem;
-  align-items: center;
+  align-items: end;
 }
 .footer-faded-text {
   position: absolute;
   left: 0;
-  bottom: -12%;
+  bottom: -8%;
   color: #535c87;
   user-select: none;
   font-size: 5em;
@@ -672,10 +672,28 @@ footer {
   display: flex;
   gap: 2em;
   font-size: 2vw;
+ 
 }
 .icon-wrapper i {
   transition: all 0.3s;
+  background-color: #868fb9e1;
+  border-radius: 5px;
 }
 .icon-wrapper i:hover {
   color: #fff;
+}
+.footer-push {
+  width: 30vw;
+  height: 10vh;
+}
+.footer-push p {
+  font-size: 4vw;
+  font-weight: 700;
+  color: skyblue;
+  text-decoration: none;
+}
+.footer-push h2 {
+  font-family: "Gilroy";
+  font-weight: 500;
+  color: #707695;
 }
