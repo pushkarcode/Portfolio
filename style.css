@@ -686,7 +686,7 @@ footer {
 }
 .icon-wrapper {
   display: flex;
-  gap: 2em;
+  gap: 3vw;
   font-size: 2vw;
  
 }
