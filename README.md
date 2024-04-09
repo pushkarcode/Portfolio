@@ -14,10 +14,8 @@ Welcome to the repository of my personal portfolio website! This website serves 
 ## Setup
 
 To view the website locally, follow these steps:
-- Link - https://portfolio-tau-gules-23.vercel.app/
+- Link - https://portfolio-code007.vercel.app/
 
-1. Clone this repository to your local machine:
-Link -
   
 ## License
 
