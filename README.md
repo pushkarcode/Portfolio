@@ -10,6 +10,7 @@ Welcome to the repository of my personal portfolio website! This website serves 
 - Smooth scrolling navigation
 - Interactive elements and animations to enhance user experience
 - fullstack applications are created.
+- Project section
 
 ## Setup
 
