@@ -6,11 +6,12 @@ Welcome to the repository of my personal portfolio website! This website serves 
 
 - Clean and modern design
 - Responsive layout, compatible with various devices and screen sizes
-- Sections for showcasing projects, skills, and contact information
+- Sections for showcasing projects, skills, and contact information 
 - Smooth scrolling navigation
 - Interactive elements and animations to enhance user experience
 - fullstack applications are created.
 - Project section
+- contact me section
 
 ## Setup
 
